@@ -1,7 +1,7 @@
 # This JOURNAL.md file gets automatically updated by the journal-logger agent after every interaction with CoPilot. It serves as a comprehensive log of all prompts, responses, changes made, and reflections during the development process. Each entry is formatted consistently for easy reading and is listed in reverse chronological order, with the most recent interactions at the top.
 ### **New Interaction**
 - **Date**: 03-12-2026
-- **User**: (user)
+- **User**: abdullahsalman071@gmail.com
 - **Prompt**: update readme.md this file should explain how to run the game and tests.
 - **CoPilot Mode**: Socratic (default)
 - **CoPilot Model**: GPT-4.1
@@ -10,7 +10,7 @@
 - **My Observations**: 
 ### **New Interaction**
 - **Date**: 03-12-2026
-- **User**: (user)
+- **User**: abdullahsalman071@gmail.com
 - **Prompt**: Give test in test.py file so that i can test my code before submitting
 - **CoPilot Mode**: Socratic (default)
 - **CoPilot Model**: GPT-4.1
@@ -20,7 +20,7 @@
 
 ### **New Interaction**
 - **Date**: 03-12-2026
-- **User**: (user)
+- **User**: abdullahsalman071@gmail.com
 - **Prompt**: Can you suggest some tests for this game?
 - **CoPilot Mode**: Socratic (default)
 - **CoPilot Model**: GPT-4.1
@@ -29,7 +29,7 @@
 - **My Observations**: 
 ### **New Interaction**
 - **Date**: 03-12-2026
-- **User**: (user)
+- **User**: abdullahsalman071@gmail.com
 - **Prompt**: Can you review and document main.py? Do not be too verbose and skip the trivial
 - **CoPilot Mode**: Socratic (default)
 - **CoPilot Model**: GPT-4.1
@@ -39,7 +39,7 @@
 
 ### **New Interaction**
 - **Date**: 03-12-2026
-- **User**: (user)
+- **User**: abdullahsalman071@gmail.com
 - **Prompt**: Review my update_state_function in main.py
 - **CoPilot Mode**: Socratic (default)
 - **CoPilot Model**: GPT-4.1
@@ -51,7 +51,7 @@
 - **User**: abdullahsalman071@gmail.com
 - **Prompt**: what are possible bugs in word guess / hangman implementations ?
 - **CoPilot Mode**: Chat
-- **CoPilot Model**: Windsurf
+- **CoPilot Model**: Claude Haiku 4.5
 - **Changes Made**: Listed common bugs in Hangman implementations, including incorrect word selection, invalid guess validation, incorrect guess checking, win/lose condition errors, display update issues, incorrect chance or letter counting, game state management issues, input handling errors, and general error handling concerns.
 - **Context and Reasons for Changes**: User asked for possible implementation bugs to be aware of. Response provided a detailed list to help with debugging, testing, and ensuring consistent gameplay.
 
