@@ -80,16 +80,9 @@ def recursive_game(secret_word: str, guessed_letters: list[str], lives: int,auto
             
             original_array.remove(guess)
             guess = guess.strip().upper()
-            # if guess in auto_play_letters:
-            #    continue
-            # else :
-            #    auto_play_letters.append(guess)
-            #    break
+            
 
 
-               
-       
-       
     if not guess or len(guess) != 1 or not guess.isalpha():
         print("Please enter a single letter (A-Z).")
         return recursive_game(secret_word, guessed_letters, lives,auto_play)

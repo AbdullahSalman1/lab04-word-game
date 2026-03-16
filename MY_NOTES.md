@@ -71,6 +71,11 @@ Does that help in any way ?
                         a different approach
 
                         
+
+
+Views on class assignment :
+                         Class assignment today taught me an interesting thing of storing alphabets in array
+                         and when a letter is guesses remove that letter from array instead of using loop and checking whether the letter is already guessed or not we can use this array method
                    
 
 
